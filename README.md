@@ -15,14 +15,14 @@ This Chrome extension automates the process of sending connection requests on Li
 
 #### Installation & How To Use This
 1. Clone the repository to your local machine:
-  - ```bash git clone https://github.com/letscodeaditya/LinkedIn-Auto-Connect-Chrome-extension.git
-  - ```bash cd LinkedIn-Auto-Connect-Chrome-extension
+  - ```bash git clone https://github.com/letscodeaditya/LinkedIn-Auto-Connect-Chrome-extension.git ```
+  - ```bash cd LinkedIn-Auto-Connect-Chrome-extension ```
 
 2. Install Dependencies
-   - ```bash npm install
+   - ```bash npm install ```
 
 3. Build the Project
-   - ```bash npm run build
+   - ```bash npm run build ```
 
 4. Load the Extension in Chrome
    - Enable "Developer mode" by toggling the switch in the top right corner.
