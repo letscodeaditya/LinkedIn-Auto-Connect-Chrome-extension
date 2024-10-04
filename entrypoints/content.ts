@@ -19,7 +19,7 @@ export default defineContentScript({
       } else {
         isConnecting = false;
         console.log("All connection requests sent.");
-        showToast("All connection requests sent."); // Use custom toast
+        showToast("All connection requests sent."); 
       }
     };
 
